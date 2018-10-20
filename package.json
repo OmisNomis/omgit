@@ -1,10 +1,10 @@
 {
-  "name": "mgit-cli",
+  "name": "omgit",
   "version": "1.0.0",
   "description": "CLI for managing multiple git repositories",
   "main": "index.js",
   "bin": {
-    "mgit-cli": "./bin/global.js"
+    "omgit": "./bin/global.js"
   },
   "preferGlobal": true,
   "scripts": {
