@@ -1,2 +1,2 @@
-# mgit-cli
+# omgit
 CLI for managing multiple git repositories
