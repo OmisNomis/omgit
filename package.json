@@ -1,6 +1,6 @@
 {
   "name": "omgit",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "CLI for managing multiple git repositories",
   "main": "index.js",
   "bin": {
